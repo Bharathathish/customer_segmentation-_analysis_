@@ -1,0 +1,332 @@
+segment,age_group,city,gender,total_orders,total_revenue,avg_order_value,return_rate_pct
+Champions,26-35,Pune,Female,85,3332911.94,39210.73,12.94
+Champions,55+,Chennai,Female,59,3099662.31,52536.65,10.17
+Champions,18-25,Ahmedabad,Female,84,2645122.03,31489.55,11.9
+Champions,46-55,Delhi,Female,80,2431197.51,30389.97,6.25
+Champions,26-35,Ahmedabad,Female,46,2357315.07,51245.98,8.7
+Champions,36-45,Surat,Male,59,2166562.04,36721.39,8.47
+Champions,26-35,Jaipur,Male,64,2135709.17,33370.46,15.63
+Champions,26-35,Hyderabad,Female,43,2100126.8,48840.16,13.95
+Champions,46-55,Bangalore,Female,34,2059869.25,60584.39,11.76
+Champions,18-25,Chennai,Male,48,2003067.13,41730.57,18.75
+Champions,18-25,Kolkata,Male,42,1922465.15,45772.98,9.52
+Champions,18-25,Delhi,Male,44,1900864.76,43201.47,9.09
+Loyal Customers,36-45,Ahmedabad,Female,25,1882113.96,75284.56,8.0
+Champions,18-25,Hyderabad,Male,49,1827686.48,37299.72,6.12
+Loyal Customers,26-35,Kolkata,Female,24,1727972.77,71998.87,4.17
+Champions,36-45,Hyderabad,Male,41,1651244.12,40274.25,9.76
+Champions,36-45,Bangalore,Male,49,1585864.16,32364.57,10.2
+Champions,26-35,Mumbai,Male,24,1585567.56,66065.32,8.33
+Champions,55+,Jaipur,Male,51,1569610.06,30776.67,7.84
+Champions,18-25,Bangalore,Female,35,1555845.56,44452.73,2.86
+Loyal Customers,36-45,Jaipur,Female,37,1537414.34,41551.74,24.32
+Loyal Customers,26-35,Jaipur,Male,37,1533275.17,41439.87,2.7
+Champions,26-35,Mumbai,Female,49,1521249.11,31045.9,8.16
+Loyal Customers,36-45,Delhi,Female,40,1513839.14,37845.98,10.0
+Loyal Customers,26-35,Hyderabad,Female,39,1505423.43,38600.6,7.69
+Champions,46-55,Pune,Female,15,1495189.54,99679.3,13.33
+Champions,26-35,Delhi,Male,28,1481339.19,52904.97,10.71
+Loyal Customers,26-35,Pune,Male,32,1452806.9,45400.22,9.38
+Champions,26-35,Ahmedabad,Male,42,1447896.94,34473.74,14.29
+Champions,55+,Delhi,Male,46,1433460.37,31162.18,10.87
+Champions,26-35,Bangalore,Female,29,1414851.49,48787.98,3.45
+Champions,36-45,Mumbai,Female,46,1409465.99,30640.56,10.87
+Champions,36-45,Bangalore,Female,42,1353153.32,32217.94,4.76
+Champions,46-55,Ahmedabad,Female,41,1349717.05,32919.93,7.32
+Loyal Customers,36-45,Kolkata,Female,27,1296034.53,48001.28,3.7
+Champions,46-55,Jaipur,Male,37,1277731.84,34533.29,8.11
+Champions,55+,Mumbai,Female,30,1256454.56,41881.82,10.0
+Champions,26-35,Bangalore,Male,34,1253228.23,36859.65,8.82
+Loyal Customers,46-55,Delhi,Female,37,1208731.68,32668.42,13.51
+Champions,26-35,Kolkata,Female,28,1191642.34,42558.66,3.57
+Loyal Customers,18-25,Chennai,Female,33,1163961.96,35271.57,9.09
+Loyal Customers,26-35,Ahmedabad,Female,36,1150786.86,31966.3,5.56
+Loyal Customers,46-55,Jaipur,Male,29,1148739.93,39611.72,13.79
+Champions,36-45,Pune,Male,46,1126968.34,24499.31,4.35
+Champions,55+,Ahmedabad,Male,33,1073058.15,32516.91,9.09
+Champions,26-35,Surat,Female,11,1072721.06,97520.1,27.27
+Loyal Customers,46-55,Pune,Female,13,1066971.17,82074.71,15.38
+Champions,36-45,Jaipur,Male,28,1044670.72,37309.67,14.29
+Loyal Customers,46-55,Mumbai,Female,17,1034138.45,60831.67,11.76
+Champions,36-45,Chennai,Female,23,1030462.34,44802.71,8.7
+Champions,36-45,Surat,Female,34,1026890.44,30202.66,8.82
+Champions,18-25,Surat,Female,30,1019971.53,33999.05,10.0
+Loyal Customers,55+,Mumbai,Male,31,1006391.29,32464.24,12.9
+Loyal Customers,46-55,Pune,Male,27,996636.21,36912.45,7.41
+Champions,18-25,Chennai,Female,29,934419.68,32221.37,0.0
+Champions,55+,Surat,Female,18,931135.56,51729.75,0.0
+Lost / Inactive,18-25,Pune,Male,22,918434.26,41747.01,4.55
+Champions,26-35,Chennai,Male,33,903546.87,27380.21,9.09
+Loyal Customers,36-45,Chennai,Female,26,889691.1,34218.89,3.85
+Loyal Customers,26-35,Jaipur,Female,19,872946.35,45944.54,0.0
+Loyal Customers,26-35,Surat,Female,16,859493.06,53718.32,0.0
+Loyal Customers,26-35,Bangalore,Female,15,839711.94,55980.8,6.67
+Loyal Customers,18-25,Surat,Female,22,825920.48,37541.84,4.55
+Loyal Customers,26-35,Kolkata,Male,6,808059.51,134676.58,0.0
+Champions,18-25,Kolkata,Female,25,799631.03,31985.24,12.0
+Champions,18-25,Ahmedabad,Male,35,799053.3,22830.09,11.43
+Champions,46-55,Hyderabad,Male,29,798166.61,27522.99,6.9
+Champions,46-55,Ahmedabad,Male,16,793411.58,49588.22,0.0
+Champions,46-55,Chennai,Male,27,784003.3,29037.16,11.11
+Champions,46-55,Surat,Male,12,777345.46,64778.79,0.0
+Loyal Customers,26-35,Hyderabad,Male,15,765531.43,51035.43,0.0
+Champions,46-55,Delhi,Male,27,760696.16,28173.93,3.7
+Loyal Customers,26-35,Mumbai,Female,17,759891.63,44699.51,5.88
+Champions,46-55,Mumbai,Female,19,758901.58,39942.19,5.26
+Lost / Inactive,26-35,Kolkata,Male,27,754194.46,27933.13,3.7
+Champions,46-55,Kolkata,Female,20,735298.53,36764.93,20.0
+Loyal Customers,26-35,Pune,Female,19,726526.95,38238.26,5.26
+Champions,46-55,Jaipur,Female,13,724830.31,55756.18,0.0
+Loyal Customers,26-35,Bangalore,Male,28,720986.65,25749.52,7.14
+Loyal Customers,46-55,Kolkata,Male,12,715068.66,59589.06,8.33
+Champions,46-55,Bangalore,Male,8,707593.02,88449.13,12.5
+Loyal Customers,36-45,Chennai,Male,9,705794.69,78421.63,0.0
+Champions,26-35,Jaipur,Female,18,700178.1,38898.78,0.0
+Loyal Customers,36-45,Bangalore,Female,17,694774.88,40869.11,5.88
+Champions,36-45,Pune,Female,37,687568.11,18582.92,5.41
+Loyal Customers,55+,Ahmedabad,Female,5,679971.17,135994.23,20.0
+Champions,55+,Delhi,Female,19,679838.7,35780.98,10.53
+Loyal Customers,46-55,Chennai,Female,16,673163.35,42072.71,18.75
+Champions,55+,Pune,Male,18,670771.53,37265.08,5.56
+Champions,18-25,Jaipur,Female,13,667825.15,51371.17,0.0
+At Risk,18-25,Mumbai,Male,5,667401.09,133480.22,0.0
+Lost / Inactive,36-45,Chennai,Male,27,667397.19,24718.41,3.7
+Champions,55+,Chennai,Male,16,637509.58,39844.35,6.25
+Loyal Customers,18-25,Bangalore,Female,12,629352.36,52446.03,8.33
+Lost / Inactive,18-25,Mumbai,Female,24,623443.31,25976.8,4.17
+Champions,26-35,Hyderabad,Male,15,619388.31,41292.55,13.33
+Loyal Customers,46-55,Surat,Male,13,618763.15,47597.17,0.0
+Lost / Inactive,18-25,Mumbai,Male,17,612815.21,36047.95,5.88
+Loyal Customers,36-45,Mumbai,Male,17,609953.17,35879.6,5.88
+Loyal Customers,18-25,Ahmedabad,Male,15,608743.68,40582.91,0.0
+Loyal Customers,36-45,Surat,Female,6,600618.44,100103.07,0.0
+Loyal Customers,18-25,Bangalore,Male,8,596730.91,74591.36,0.0
+Lost / Inactive,36-45,Delhi,Female,17,591774.01,34810.24,0.0
+Champions,18-25,Delhi,Female,32,585757.29,18304.92,3.13
+Lost / Inactive,36-45,Bangalore,Male,18,580836.97,32268.72,16.67
+Lost / Inactive,46-55,Surat,Female,10,575853.24,57585.32,10.0
+Lost / Inactive,26-35,Mumbai,Female,17,575521.74,33854.22,11.76
+Champions,55+,Hyderabad,Male,19,572524.83,30132.89,21.05
+At Risk,26-35,Ahmedabad,Male,11,572002.2,52000.2,18.18
+Lost / Inactive,36-45,Chennai,Female,17,567478.94,33381.11,11.76
+Champions,36-45,Mumbai,Male,14,552980.58,39498.61,14.29
+Loyal Customers,46-55,Bangalore,Female,8,552288.13,69036.02,12.5
+Champions,55+,Bangalore,Male,20,546745.35,27337.27,10.0
+Loyal Customers,46-55,Ahmedabad,Female,9,542061.56,60229.06,0.0
+Champions,18-25,Surat,Male,9,531709.34,59078.82,0.0
+Loyal Customers,55+,Jaipur,Female,13,530351.86,40796.3,7.69
+Loyal Customers,26-35,Surat,Male,7,523778.72,74825.53,42.86
+Lost / Inactive,26-35,Ahmedabad,Female,13,521504.09,40115.7,23.08
+Lost / Inactive,46-55,Bangalore,Male,26,519709.26,19988.82,3.85
+Champions,46-55,Chennai,Female,16,517758.45,32359.9,6.25
+At Risk,36-45,Ahmedabad,Male,16,516766.92,32297.93,12.5
+Lost / Inactive,36-45,Bangalore,Female,23,505077.51,21959.89,4.35
+Champions,18-25,Pune,Female,10,501913.61,50191.36,0.0
+Lost / Inactive,18-25,Bangalore,Female,13,501352.81,38565.6,0.0
+At Risk,36-45,Mumbai,Female,13,496341.07,38180.08,38.46
+At Risk,36-45,Delhi,Male,8,490616.72,61327.09,12.5
+Lost / Inactive,36-45,Kolkata,Male,14,480741.92,34338.71,21.43
+At Risk,26-35,Chennai,Male,11,477213.51,43383.05,9.09
+Loyal Customers,36-45,Kolkata,Male,4,473168.62,118292.15,0.0
+At Risk,46-55,Pune,Male,12,468892.4,39074.37,16.67
+Loyal Customers,26-35,Delhi,Male,9,468880.19,52097.8,22.22
+Lost / Inactive,36-45,Jaipur,Male,16,464708.85,29044.3,12.5
+Loyal Customers,18-25,Jaipur,Male,14,459402.19,32814.44,7.14
+Champions,36-45,Jaipur,Female,12,457093.85,38091.15,0.0
+Lost / Inactive,36-45,Surat,Male,14,451259.9,32232.85,14.29
+At Risk,18-25,Ahmedabad,Male,10,450355.54,45035.55,10.0
+Lost / Inactive,36-45,Mumbai,Male,29,447761.2,15440.04,3.45
+At Risk,36-45,Jaipur,Female,11,444488.26,40408.02,0.0
+Champions,18-25,Mumbai,Female,18,443531.96,24640.66,5.56
+Loyal Customers,46-55,Delhi,Male,6,434473.09,72412.18,50.0
+Champions,36-45,Kolkata,Female,12,428686.42,35723.87,16.67
+Champions,26-35,Pune,Male,16,428089.37,26755.59,12.5
+Lost / Inactive,26-35,Hyderabad,Male,32,418660.55,13083.14,9.38
+Lost / Inactive,26-35,Bangalore,Female,21,410319.15,19539.01,9.52
+At Risk,46-55,Ahmedabad,Male,7,407918.94,58274.13,0.0
+Lost / Inactive,46-55,Jaipur,Female,20,406753.22,20337.66,30.0
+At Risk,46-55,Surat,Male,3,403895.24,134631.75,0.0
+Lost / Inactive,18-25,Bangalore,Male,12,402086.77,33507.23,0.0
+Loyal Customers,36-45,Pune,Female,10,398682.1,39868.21,20.0
+Lost / Inactive,18-25,Chennai,Male,16,396497.54,24781.1,18.75
+Lost / Inactive,18-25,Hyderabad,Female,13,392518.58,30193.74,7.69
+Lost / Inactive,36-45,Mumbai,Female,17,391815.78,23047.99,5.88
+Loyal Customers,36-45,Jaipur,Male,4,385994.63,96498.66,0.0
+Lost / Inactive,26-35,Bangalore,Male,17,385136.55,22655.09,11.76
+Loyal Customers,18-25,Ahmedabad,Female,23,381377.71,16581.64,8.7
+Lost / Inactive,46-55,Kolkata,Female,21,378441.7,18021.03,4.76
+Champions,18-25,Hyderabad,Female,15,378071.62,25204.77,0.0
+Lost / Inactive,26-35,Jaipur,Male,15,375732.13,25048.81,13.33
+Lost / Inactive,18-25,Jaipur,Female,12,375283.6,31273.63,0.0
+Loyal Customers,18-25,Delhi,Male,11,363253.3,33023.03,9.09
+At Risk,18-25,Hyderabad,Female,5,359171.71,71834.34,20.0
+At Risk,26-35,Ahmedabad,Female,13,357514.89,27501.15,0.0
+Loyal Customers,46-55,Ahmedabad,Male,10,345465.26,34546.53,10.0
+Lost / Inactive,26-35,Mumbai,Male,14,344065.35,24576.1,14.29
+Loyal Customers,46-55,Hyderabad,Male,8,341423.07,42677.88,0.0
+Loyal Customers,46-55,Kolkata,Female,10,339691.28,33969.13,10.0
+At Risk,18-25,Bangalore,Female,7,336350.92,48050.13,0.0
+Loyal Customers,55+,Delhi,Female,5,334904.76,66980.95,0.0
+Loyal Customers,36-45,Delhi,Male,7,334451.35,47778.76,14.29
+Lost / Inactive,26-35,Delhi,Female,13,333690.53,25668.5,0.0
+Loyal Customers,18-25,Chennai,Male,14,326960.08,23354.29,14.29
+At Risk,26-35,Pune,Male,7,318772.37,45538.91,0.0
+Loyal Customers,46-55,Hyderabad,Female,4,317216.54,79304.13,0.0
+At Risk,26-35,Hyderabad,Female,3,316796.83,105598.94,0.0
+Lost / Inactive,26-35,Surat,Male,10,314859.34,31485.93,0.0
+Lost / Inactive,18-25,Jaipur,Male,6,313670.91,52278.48,0.0
+Lost / Inactive,26-35,Chennai,Male,17,313291.24,18428.9,0.0
+Lost / Inactive,46-55,Jaipur,Male,12,311274.41,25939.53,8.33
+Lost / Inactive,18-25,Pune,Female,18,311248.39,17291.58,5.56
+Loyal Customers,36-45,Surat,Male,10,308352.6,30835.26,10.0
+Lost / Inactive,36-45,Hyderabad,Male,7,307299.77,43899.97,14.29
+Lost / Inactive,55+,Hyderabad,Female,15,306175.27,20411.68,13.33
+Lost / Inactive,36-45,Pune,Male,13,300990.06,23153.08,7.69
+Lost / Inactive,36-45,Surat,Female,16,297838.01,18614.88,18.75
+Lost / Inactive,46-55,Ahmedabad,Female,7,295310.72,42187.25,0.0
+Lost / Inactive,46-55,Kolkata,Male,9,294065.02,32673.89,11.11
+Lost / Inactive,55+,Bangalore,Female,7,293638.01,41948.29,0.0
+At Risk,46-55,Mumbai,Male,6,290626.65,48437.78,16.67
+At Risk,18-25,Jaipur,Female,4,290408.55,72602.14,25.0
+Loyal Customers,26-35,Ahmedabad,Male,13,288707.54,22208.27,15.38
+Lost / Inactive,55+,Pune,Male,6,286844.99,47807.5,0.0
+At Risk,55+,Delhi,Male,8,280327.11,35040.89,12.5
+Lost / Inactive,36-45,Ahmedabad,Female,6,276144.37,46024.06,0.0
+Loyal Customers,18-25,Jaipur,Female,13,276054.06,21234.93,0.0
+Lost / Inactive,55+,Jaipur,Male,6,273487.81,45581.3,16.67
+Loyal Customers,46-55,Bangalore,Male,5,272579.46,54515.89,20.0
+Lost / Inactive,26-35,Pune,Female,18,272390.28,15132.79,5.56
+Loyal Customers,26-35,Chennai,Female,6,271832.88,45305.48,16.67
+Lost / Inactive,36-45,Jaipur,Female,8,271750.27,33968.78,0.0
+Loyal Customers,55+,Delhi,Male,3,269498.82,89832.94,33.33
+At Risk,46-55,Hyderabad,Female,4,265683.74,66420.93,0.0
+At Risk,36-45,Mumbai,Male,10,265097.02,26509.7,0.0
+Loyal Customers,26-35,Chennai,Male,4,259297.93,64824.48,0.0
+At Risk,18-25,Delhi,Male,6,256533.55,42755.59,33.33
+Loyal Customers,55+,Pune,Male,13,255469.39,19651.49,7.69
+At Risk,36-45,Jaipur,Male,9,252803.06,28089.23,11.11
+Loyal Customers,26-35,Mumbai,Male,4,248741.08,62185.27,0.0
+At Risk,26-35,Delhi,Female,9,245239.81,27248.87,22.22
+At Risk,46-55,Pune,Female,7,242796.48,34685.21,0.0
+Lost / Inactive,26-35,Chennai,Female,11,241619.82,21965.44,9.09
+Lost / Inactive,46-55,Mumbai,Male,9,241402.88,26822.54,0.0
+Loyal Customers,36-45,Ahmedabad,Male,13,239497.63,18422.89,0.0
+Champions,46-55,Mumbai,Male,18,237504.15,13194.67,11.11
+Lost / Inactive,36-45,Ahmedabad,Male,18,233289.64,12960.54,22.22
+Loyal Customers,55+,Pune,Female,13,230931.74,17763.98,7.69
+Lost / Inactive,36-45,Delhi,Male,10,230557.35,23055.74,10.0
+At Risk,18-25,Kolkata,Female,11,229506.34,20864.21,0.0
+Lost / Inactive,26-35,Delhi,Male,11,227803.98,20709.45,18.18
+At Risk,46-55,Hyderabad,Male,1,227729.4,227729.4,0.0
+Loyal Customers,55+,Bangalore,Male,5,223741.42,44748.28,0.0
+Lost / Inactive,55+,Ahmedabad,Female,10,220072.98,22007.3,10.0
+Lost / Inactive,26-35,Hyderabad,Female,15,218707.64,14580.51,13.33
+Lost / Inactive,18-25,Surat,Male,11,217154.28,19741.3,9.09
+At Risk,26-35,Kolkata,Male,10,215313.09,21531.31,10.0
+Lost / Inactive,55+,Delhi,Female,11,211327.4,19211.58,0.0
+Loyal Customers,18-25,Kolkata,Female,6,210641.39,35106.9,16.67
+Lost / Inactive,46-55,Chennai,Male,7,210529.07,30075.58,28.57
+At Risk,55+,Mumbai,Female,6,208005.11,34667.52,33.33
+At Risk,36-45,Bangalore,Female,4,206224.73,51556.18,25.0
+At Risk,46-55,Surat,Female,10,193830.57,19383.06,20.0
+At Risk,46-55,Chennai,Male,2,193565.98,96782.99,0.0
+At Risk,36-45,Surat,Male,5,193249.18,38649.84,20.0
+Lost / Inactive,26-35,Pune,Male,11,192566.09,17506.01,0.0
+At Risk,26-35,Pune,Female,4,191124.11,47781.03,0.0
+Lost / Inactive,18-25,Surat,Female,8,190001.63,23750.2,25.0
+Lost / Inactive,46-55,Hyderabad,Female,13,189794.19,14599.55,7.69
+Lost / Inactive,18-25,Hyderabad,Male,9,189106.6,21011.84,11.11
+At Risk,36-45,Hyderabad,Male,3,188569.03,62856.34,33.33
+Lost / Inactive,55+,Kolkata,Female,13,187287.51,14406.73,7.69
+Lost / Inactive,46-55,Hyderabad,Male,15,184662.97,12310.86,13.33
+At Risk,26-35,Chennai,Female,6,183086.42,30514.4,33.33
+Lost / Inactive,26-35,Kolkata,Female,12,181032.25,15086.02,16.67
+Lost / Inactive,26-35,Ahmedabad,Male,11,180882.27,16443.84,18.18
+At Risk,18-25,Mumbai,Female,4,178387.6,44596.9,25.0
+At Risk,18-25,Delhi,Female,5,172935.18,34587.04,0.0
+Lost / Inactive,55+,Ahmedabad,Male,6,172874.89,28812.48,16.67
+Lost / Inactive,55+,Surat,Male,7,172072.54,24581.79,0.0
+Lost / Inactive,36-45,Pune,Female,16,170299.48,10643.72,12.5
+At Risk,55+,Chennai,Male,4,169366.44,42341.61,0.0
+Lost / Inactive,46-55,Pune,Male,7,167211.86,23887.41,0.0
+Loyal Customers,36-45,Mumbai,Female,12,165383.19,13781.93,0.0
+At Risk,26-35,Jaipur,Male,3,161114.6,53704.87,0.0
+At Risk,26-35,Delhi,Male,3,159439.46,53146.49,0.0
+Lost / Inactive,55+,Jaipur,Female,6,158178.77,26363.13,0.0
+Lost / Inactive,36-45,Hyderabad,Female,15,152208.66,10147.24,0.0
+Lost / Inactive,46-55,Surat,Male,6,150484.5,25080.75,0.0
+Loyal Customers,18-25,Surat,Male,13,148979.61,11459.97,7.69
+Lost / Inactive,18-25,Ahmedabad,Male,12,148787.13,12398.93,0.0
+Loyal Customers,36-45,Hyderabad,Female,7,148646.79,21235.26,14.29
+At Risk,26-35,Hyderabad,Male,7,143501.85,20500.26,0.0
+Lost / Inactive,55+,Surat,Female,6,142065.84,23677.64,33.33
+Lost / Inactive,46-55,Chennai,Female,5,141340.06,28268.01,0.0
+Lost / Inactive,55+,Mumbai,Female,8,139717.05,17464.63,0.0
+At Risk,36-45,Kolkata,Female,4,134519.4,33629.85,0.0
+At Risk,46-55,Bangalore,Male,6,131078.79,21846.47,16.67
+At Risk,18-25,Surat,Male,3,129957.36,43319.12,0.0
+At Risk,46-55,Jaipur,Male,5,121207.11,24241.42,20.0
+Lost / Inactive,26-35,Jaipur,Female,8,121095.74,15136.97,0.0
+At Risk,36-45,Delhi,Female,3,120974.83,40324.94,0.0
+Lost / Inactive,36-45,Kolkata,Female,6,109946.2,18324.37,0.0
+Lost / Inactive,46-55,Delhi,Female,11,108985.41,9907.76,0.0
+At Risk,26-35,Mumbai,Male,3,108714.69,36238.23,0.0
+At Risk,36-45,Pune,Male,13,108150.68,8319.28,15.38
+At Risk,46-55,Bangalore,Female,6,103320.75,17220.13,0.0
+At Risk,36-45,Chennai,Female,7,102555.91,14650.84,28.57
+Lost / Inactive,18-25,Delhi,Female,6,102142.96,17023.83,16.67
+At Risk,26-35,Bangalore,Female,8,99889.6,12486.2,12.5
+At Risk,36-45,Kolkata,Male,2,97415.66,48707.83,0.0
+Lost / Inactive,18-25,Delhi,Male,4,95681.82,23920.46,0.0
+Lost / Inactive,55+,Hyderabad,Male,10,88567.07,8856.71,10.0
+At Risk,26-35,Surat,Male,7,88309.47,12615.64,14.29
+At Risk,26-35,Kolkata,Female,6,87930.39,14655.07,16.67
+Lost / Inactive,55+,Delhi,Male,8,86294.68,10786.83,37.5
+Lost / Inactive,46-55,Bangalore,Female,3,84124.04,28041.35,0.0
+Lost / Inactive,46-55,Pune,Female,3,84104.8,28034.93,0.0
+At Risk,26-35,Mumbai,Female,5,76465.41,15293.08,40.0
+Loyal Customers,18-25,Pune,Male,9,75718.19,8413.13,0.0
+At Risk,18-25,Jaipur,Male,5,75542.02,15108.4,0.0
+At Risk,46-55,Kolkata,Female,3,75360.88,25120.29,33.33
+At Risk,18-25,Bangalore,Male,1,59766.36,59766.36,0.0
+At Risk,26-35,Surat,Female,6,58910.87,9818.48,0.0
+At Risk,36-45,Pune,Female,3,58168.53,19389.51,33.33
+At Risk,55+,Hyderabad,Male,1,55608.45,55608.45,100.0
+At Risk,36-45,Surat,Female,3,54672.23,18224.08,0.0
+At Risk,36-45,Ahmedabad,Female,7,53340.11,7620.02,0.0
+At Risk,55+,Pune,Female,2,53088.72,26544.36,0.0
+At Risk,36-45,Hyderabad,Female,4,52053.61,13013.4,0.0
+At Risk,55+,Ahmedabad,Female,3,46448.24,15482.75,0.0
+At Risk,18-25,Hyderabad,Male,3,44217.03,14739.01,0.0
+At Risk,18-25,Chennai,Male,7,43797.13,6256.73,28.57
+Loyal Customers,55+,Hyderabad,Male,11,43442.79,3949.34,0.0
+Lost / Inactive,46-55,Ahmedabad,Male,4,41452.07,10363.02,0.0
+At Risk,55+,Pune,Male,3,41027.65,13675.88,0.0
+At Risk,55+,Kolkata,Female,3,37957.75,12652.58,0.0
+At Risk,46-55,Chennai,Female,5,36468.76,7293.75,0.0
+At Risk,26-35,Jaipur,Female,4,36083.81,9020.95,25.0
+Lost / Inactive,18-25,Kolkata,Female,4,35447.01,8861.75,25.0
+Lost / Inactive,55+,Pune,Female,7,33249.78,4749.97,14.29
+At Risk,36-45,Bangalore,Male,3,31450.64,10483.55,33.33
+At Risk,55+,Surat,Female,2,28908.34,14454.17,100.0
+At Risk,46-55,Ahmedabad,Female,2,25701.32,12850.66,0.0
+Lost / Inactive,18-25,Kolkata,Male,2,25306.28,12653.14,50.0
+Lost / Inactive,18-25,Chennai,Female,2,20287.3,10143.65,0.0
+Lost / Inactive,55+,Bangalore,Male,3,18368.94,6122.98,0.0
+Lost / Inactive,55+,Chennai,Male,4,15305.74,3826.43,25.0
+Lost / Inactive,46-55,Mumbai,Female,2,14771.01,7385.51,0.0
+Lost / Inactive,55+,Chennai,Female,2,14003.89,7001.94,0.0
+At Risk,55+,Mumbai,Male,2,13671.58,6835.79,50.0
+At Risk,46-55,Delhi,Male,3,13653.13,4551.04,0.0
+At Risk,26-35,Bangalore,Male,1,12742.9,12742.9,0.0
+Lost / Inactive,46-55,Delhi,Male,1,11708.12,11708.12,0.0
+At Risk,36-45,Chennai,Male,2,9736.81,4868.41,0.0
+At Risk,18-25,Pune,Male,1,9444.07,9444.07,0.0
+At Risk,18-25,Surat,Female,1,8863.52,8863.52,0.0
+At Risk,46-55,Kolkata,Male,2,8784.14,4392.07,0.0
+At Risk,18-25,Chennai,Female,4,8566.07,2141.52,25.0
+Lost / Inactive,26-35,Surat,Female,2,5309.9,2654.95,0.0
+At Risk,55+,Jaipur,Female,1,4753.8,4753.8,0.0
+At Risk,18-25,Ahmedabad,Female,1,4656.24,4656.24,0.0
+At Risk,46-55,Jaipur,Female,1,449.25,449.25,0.0
+At Risk,55+,Ahmedabad,Male,1,420.04,420.04,0.0
